@@ -1,0 +1,9 @@
+# Folders
+_untracked-files/
+.history/
+
+# Files
+Gemfile.lock
+*.html
+*.xml
+*.err
