@@ -1,0 +1,65 @@
+
+
+
+== Recommendation n° 42: Establishment of a Trade and Transport Facilitation Monitoring Mechanism (TTFMM)
+
+// Every paragragh will be numbered automatically.
+
+=== Introduction
+
+Many countries around the world have made efforts to facilitate trade and transport. Few, however, have established sustainable mechanisms to monitor the effectiveness of policies and procedures that facilitate trade and speed up international supply and value chains.
+
+...
+
+
+=== Purpose
+
+The purpose of this Recommendation is to encourage governments, business communities, development partners and international organizations to collaborate in the development of sustainable Trade and Transport Facilitation Monitoring Mechanisms (TTFMMs).
+
+...
+
+
+=== Scope
+
+This Recommendation is primarily focused on TTFMMs at the national level. However, many of the basic principles can be equally applied to local, sub-regional, regional, and global levels.
+
+...
+
+
+=== Recommendation
+
+In the light of the above, UN/CEFACT at its twenty-third Plenary session in April 2017 in Geneva recommended the following:
+
+* Governments and trade should establish national Trade and Transport Facilitation Monitoring Mechanisms (TTFMMs);
+* Governments and trade should consider undertaking the following measures to ensure the sustainability of TTFMMs:
+
+
+...
+
+
+== Guidelines for Recommendation n°42 on the establishment of a Trade and Transport Facilitation Monitoring Mechanism (TTFMM)
+
+=== Introduction
+
+There is a need for countries to establish sustainable national Trade and Transport Facilitation Monitoring Mechanisms (TTFMMs) to measure and assess progress in trade and transport facilitation and assist in formulating, updating and prioritizing recommendations for trade and transport facilitation.
+
+...
+
+
+=== Institutional arrangement
+
+Institutionalizing a TTFMM is a prerequisite to ensuring its sustainability. A body overseeing the functioning of a TTFMM should include representatives of all, or at least key, stakeholders in trade and transport facilitation
+
+...
+
+
+
+[[scope-process]]
+==== Process
+
+Countries, whenever appropriate, are encouraged to adopt a whole-of-supply-chain approach for the scope of their monitoring exercises to ensure that the solutions identified for enhancing trade and transport facilitation are encompassing and comprehensive. To this end, the Buy-Ship-Pay model{blank}footnote:[This model is included in UNECE Recommendation n°18 Facilitation Measures Related to International Trade Procedures, available at http://www.unece.org/tradewelcome/un-centre-for-trade- facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-16-to-20.html (accessed 17 January 2017).]
+
+[[Figure1]]
+.UNECE Recommendation n°18 illustrates a simplified view of the international supply chain in the Buy-Ship-Pay model. The model identifies the key commercial, logistical, regulatory and payment procedures involved in the international supply chain.
+image::figure1.png[]
+

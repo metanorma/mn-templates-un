@@ -1,0 +1,70 @@
+= Trade and Transport Facilitation Monitoring Mechanism
+:comment: ### UN Recommendation Template
+:comment: ### Document type. See comment 1 below.
+:doctype: recommendation
+:comment: ### Document number. (Required only for Recommendations.)
+:docnumber: 42
+:comment: ### Document status. See comment 2 below.
+:status: published
+:comment: ### The name of the relevant UN committee
+:committee: United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT)
+:comment: ### Document language (comma-delimited if several). See comment 3 below.
+:language: en
+:comment: ### Year of copyright
+:copyright-year: 2017
+:imagesdir: images
+:comment: ### Metanorma flavour
+:mn-document-class: un
+:comment: ### Desired output formats. Metanorma-ISO supports the following output extension values: xml (MN XML), html (ISO-style HTML), html_alt (pretty HTML), doc (Word .doc)
+:mn-output-extensions: xml,html,doc,rxl
+:comment: ### Name of this AsciiDoc file
+:docfile: document.adoc
+:local-cache-only:
+:data-uri-image:
+
+
+////
+Comment 1: doctype
+
+Permitted types are:
+- recommendation
+- plenary
+- plenary-attachment
+- addendum
+- communication
+- corrigendum
+- reissue
+- agenda
+- budgetary
+- sec-gen-notes
+- expert-report
+- resolution
+
+
+Comment 2: status
+
+Permitted types are:
+- proposal
+- working-draft
+- committee-draft
+- draft-standard
+- final-draft
+- published
+- withdrawn
+
+
+Comment 3: language
+
+Entry values for several languages are comma-delimited and must follow with ISO 639-1 codes.
+This value refers to the language in which the document has been issued and not the language(s)
+in which has been submitted.
+The value defaults to six official languages:
+Arabic, Chinese, English, French, Russian and Spanish (i.e. ar,zh,en,fr,ru,es)
+////
+
+
+include::sections/00-foreword.adoc[]
+
+include::sections/01-main-content.adoc[]
+
+include::sections/aa-annex.adoc[]
