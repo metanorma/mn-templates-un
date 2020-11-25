@@ -1,0 +1,172 @@
+= Annotated provisional agenda for the twenty-fourth session
+:comment: ### UN Plenary Template
+:comment: ### Immediate text below the main title of the document.
+:subtitle: To be held at the Palais des Nations, Geneva, starting at 10.00 on Monday, 30 April 2018, in Salle VII.
+:comment: ### Document type. See comment 1 below.
+:doctype: plenary
+:comment: ### Name of the relevant committee.
+:committee: United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT)
+:comment: ### Document status. See comment 2 below.
+:status: published
+:comment: ### Year of copyright
+:copyright-year: 2018
+:comment: ### Session number.
+:session: 24
+:comment: ### Session where this document will be discussed.
+:session-date: Geneva, 30 April – 1 May 2018
+:comment: ### Item number of this agenda
+:agenda-item: Item 1 of the provisional agenda
+:comment: ### Unique identifier of this agenda item. (Provide in comma-delimited if there are multiple items or subitems)
+:agenda-id: ECE/TRADE/C/CEFACT/2018/1
+:comment: ### Last update date
+:revdate: 2018-02-09
+:comment: ### Document language (comma-delimited if several). See comment 3 below.
+:language: en
+:comment: ### Extent of distribution allowed
+:distribution: General
+:comment: ### Metanorma flavour
+:mn-document-class: un
+:comment: ### Desired output formats. Metanorma-ISO supports the following output extension values: xml (MN XML), html (ISO-style HTML), html_alt (pretty HTML), doc (Word .doc)
+:mn-output-extensions: xml,html,doc,rxl
+:comment: ### Name of this AsciiDoc file
+:docfile: ECE_TRADE_C_CEFACT_2018_1E.adoc
+:local-cache-only:
+:data-uri-image:
+
+////
+Comment 1: doctype
+
+Permitted types are:
+- recommendation
+- plenary
+- plenary-attachment
+- addendum
+- communication
+- corrigendum
+- reissue
+- agenda
+- budgetary
+- sec-gen-notes
+- expert-report
+- resolution
+
+
+Comment 2: status
+
+Permitted types are:
+- proposal
+- working-draft
+- committee-draft
+- draft-standard
+- final-draft
+- published
+- withdrawn
+
+
+Comment 3: language
+
+Entry values for several languages are comma-delimited and must follow with ISO 639-1 codes.
+This value refers to the language in which the document has been issued and not the language(s)
+in which has been submitted.
+The value defaults to six official languages:
+Arabic, Chinese, English, French, Russian and Spanish (i.e. ar,zh,en,fr,ru,es)
+////
+
+
+== Provisional agenda
+
+// Provide list of provisional agenda
+
+. Adoption of the agenda.
+. Elections.
+. Matters arising since the twenty-third session.
+. ...
+. Adoption of decisions and draft report of the twenty-fourth session.
+
+== Annotations
+
+=== Openning
+
+The provisional agenda and timetable for the twenty-fourth session of the United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) has been drawn up by the Bureau in consultation with the secretariat. It is based on the decisions adopted at the twenty-third session. There will be simultaneous interpretation into English, French and Russian.
+
+The session will be opened by the Executive Secretary of the United Nations Economic Commission for Europe (UNECE).
+
+
+=== Item 1. Adoption of the agenda
+
+[%unnumbered,cols="3*"]
+|===
+h|_Document title_ h|_Document symbol_ |
+
+|Draft agenda |ECE/TRADE/C/CEFACT/2018/1 |For decision
+|===
+
+The secretariat will present the draft agenda for adoption (ECE/TRADE/C/CEFACT/2018/1) and will inform the Plenary of any proposed changes.
+
+
+=== Item 2. Elections
+
+[%unnumbered,cols="3*"]
+|===
+h|_Document title_ h|_Document symbol_ |
+
+|Consolidated United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) mandate and terms of reference
+|ECE/TRADE/C/CEFACT/2017/15
+|For information
+|===
+
+Delegations who are physically present will elect the Chair for the UN/CEFACT Bureau for the period 2018 – 2021. The Chair will preside over the rest of the twenty-fourth session.
+
+Delegations are encouraged to refer to "`Consolidated UN/CEFACT mandate and terms of reference`" (ECE/TRADE/C/CEFACT/2017/15), paragraphs 52-73, adopted at the twenty-third session.
+
+
+=== Item 4. Matters arising since the twenty-third session
+
+[%unnumbered,cols="3*"]
+|===
+h|_Document title_ h|_Document symbol_ |
+
+|Matters arising since the twenty-third session |ECE/TRADE/C/CEFACT/2018/3 |For information
+|===
+
+The secretariat will report on matters arising from the UNECE's Executive Committee (EXCOM) and other UN bodies and conferences since the twenty-third session.
+
+Delegations will have an opportunity to review and discuss the topics raised.
+
+
+=== Item 13. Adoption of decisions and draft report of the twenty-fourth session
+
+Delegations will be invited to adopt the decisions and the draft report.
+
+[%unnumbered,cols="3*"]
+|===
+h|_Document title_ h|_Document symbol_ |
+
+|Draft report of the twenty-fourth session |ECE/TRADE/C/CEFACT/2018/2 |For decision
+|===
+
+*Closing*
+
+
+== Provisional timetable
+
+// Insert provisional timetable
+
+[%unnumbered,cols="3*"]
+|===
+^.^h|_Date and time_ ^.^h|_Agenda item_ ^.^h|_Introduced by_
+
+|10.00 – 10.15 |Opening |Executive Secretary of the United Nations Economic Commission for Europe
+
+|10.15 – 10.30 | *Item 1:* Adoption of the agenda |Secretariat
+
+|10.30 – 11:30 |*Item 2:* Elections |Secretariat and Bureau
+
+| ... | ... | ...
+
+|11.30 – 12.00 |*Item N:* Name of the agenda item |Secretariat
+
+| ... | ... | ...
+
+| |*Closing* |Chair
+|===
