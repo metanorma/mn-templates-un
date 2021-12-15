@@ -1,0 +1,10 @@
+---
+metanorma:
+  source:
+    files:
+      - plenary/document.adoc
+      - recommendation/document.adoc
+
+  collection:
+    organization: "UNECE: United Nations Economic Commission for Europe"
+    name: "UNECE deliverable templates in Metanorma AsciiDoc"
