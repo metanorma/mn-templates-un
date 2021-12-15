@@ -17,8 +17,6 @@
 :mn-document-class: un
 :comment: ### Desired output formats. Metanorma-ISO supports the following output extension values: xml (MN XML), html (ISO-style HTML), html_alt (pretty HTML), doc (Word .doc)
 :mn-output-extensions: xml,html,doc,rxl
-:comment: ### Name of this AsciiDoc file
-:docfile: document.adoc
 :local-cache-only:
 :data-uri-image:
 
