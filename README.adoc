@@ -1,0 +1,7 @@
+= UN/ECE Templates
+
+image:https://github.com/metanorma/mn-templates-un/workflows/test/badge.svg["Build Status", link="https://github.com/metanorma/mn-templates-un/actions/workflows/test.yml"]
+image:https://github.com/metanorma/mn-templates-un/workflows/pages/badge.svg["Windows Build Status", link="https://github.com/metanorma/mn-templates-un/actions/workflows/pages.yml"]
+image:https://github.com/metanorma/mn-templates-un/workflows/docker/badge.svg["Windows Build Status", link="https://github.com/metanorma/mn-templates-un/actions/workflows/docker.yml"]
+
+This GitHub repository contains templates for UN/ECE documents.
