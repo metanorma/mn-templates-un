@@ -1,0 +1,77 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>UNECE deliverable templates in Metanorma AsciiDoc</title><contributor><role type='author'/><organization><name>UNECE: United Nations Economic Commission for Europe</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Annotated provisional agenda for the twenty-fourth session</title>
+  <title type="subtitle" format="text/plain" language="en">To be held at the Palais des Nations, Geneva, starting at 10.00 on Monday, 30 April 2018, in Salle VII.</title>
+  <uri type="xml">documents/plenary/document.xml</uri>
+  <uri type="doc">documents/plenary/document.doc</uri>
+  <uri type="html">documents/plenary/document.html</uri>
+  <uri type="rxl">documents/plenary/document.rxl</uri>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>United Nations</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>United Nations</name>
+    </organization>
+  </contributor>
+  <version>
+    <revision-date>2018-02-09</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>United Nations</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>plenary</doctype>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Trade and Transport Facilitation Monitoring Mechanism</title>
+  <uri type="xml">documents/recommendation/document.xml</uri>
+  <uri type="doc">documents/recommendation/document.doc</uri>
+  <uri type="html">documents/recommendation/document.html</uri>
+  <uri type="rxl">documents/recommendation/document.rxl</uri>
+  <docidentifier>42</docidentifier>
+  <docnumber>42</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>United Nations</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>United Nations</name>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>United Nations</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>recommendation</doctype>
+  </ext>
+</bibdata></relation>
+</relaton-collection>

@@ -1,0 +1,45 @@
+/__w/mn-templates-un/mn-templates-un/site/documents/plenary/document.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000040): Table should have title
+	<table id="_282f4df6-24fb-767e-3566-81a066ef5c47" unnumbered="true"><thead><tr><th valign="top" align="left"><em>Document title</em></th>
+	<th valign="top" align="left"><em>Document symbol</em></th>
+	<th valign="top" align="left"/></tr></thead>
+	<tbody><tr><td valign="top" align="left">Draft agenda</td>
+	<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/1</td>
+(XML Line 000054): Table should have title
+	<table id="_a7d255a4-817f-8a5c-f548-d181f95a5e75" unnumbered="true"><thead><tr><th valign="top" align="left"><em>Document title</em></th>
+	<th valign="top" align="left"><em>Document symbol</em></th>
+	<th valign="top" align="left"/></tr></thead>
+	<tbody><tr><td valign="top" align="left">Consolidated United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) mandate and terms of reference</td>
+	<td valign="top" align="left">ECE/TRADE/C/CEFACT/2017/15</td>
+(XML Line 000070): Table should have title
+	<table id="_82f1cb48-0d03-1e75-7005-e454cae293a5" unnumbered="true"><thead><tr><th valign="top" align="left"><em>Document title</em></th>
+	<th valign="top" align="left"><em>Document symbol</em></th>
+	<th valign="top" align="left"/></tr></thead>
+	<tbody><tr><td valign="top" align="left">Matters arising since the twenty-third session</td>
+	<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/3</td>
+(XML Line 000088): Table should have title
+	<table id="_41952b56-2d06-ded7-4e2b-b422bd33df12" unnumbered="true"><thead><tr><th valign="top" align="left"><em>Document title</em></th>
+	<th valign="top" align="left"><em>Document symbol</em></th>
+	<th valign="top" align="left"/></tr></thead>
+	<tbody><tr><td valign="top" align="left">Draft report of the twenty-fourth session</td>
+	<td valign="top" align="left">ECE/TRADE/C/CEFACT/2018/2</td>
+(XML Line 000103): Table should have title
+	<table id="_f667c491-80b1-737e-5112-d0ecd69dc4ab" unnumbered="true"><thead><tr><th valign="middle" align="center"><em>Date and time</em></th>
+	<th valign="middle" align="center"><em>Agenda item</em></th>
+	<th valign="middle" align="center"><em>Introduced by</em></th>
+	</tr></thead>
+	<tbody><tr><td valign="top" align="left">10.00 – 10.15</td>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000007:14): element "contributor" not allowed yet; missing required element "docidentifier"
+(XML Line 000013:239): character content of element "distribution" invalid; must be equal to "general", "limited", "provisional" or "restricted"
+(XML Line 000013:273): element "date" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name", "item-number", "session-date" or "subitem-name"
+(XML Line 000013:309): character content of element "date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000013:313): element "id" not allowed here; expected the element end-tag or element "agenda-id", "collaborator", "item-footnote", "item-name", "item-number", "session-date" or "subitem-name"
+(XML Line 000073:11): element "sections" not allowed yet; missing required element "preface"
